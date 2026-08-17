@@ -39,6 +39,4 @@ Dropbox, open it from another machine. Deleting the app does not delete your wor
 
 ---
 
-This repo hosts release builds only. Mind Weaver is not open source.
-
-Bugs and ideas → [Issues](../../issues) · or find me at [mindweaver.space](https://mindweaver.space)
+This repo hosts release builds only.
