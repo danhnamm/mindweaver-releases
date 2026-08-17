@@ -5,6 +5,8 @@ mind map, board, table, doc, gantt, calendar, gallery, chart or slides.
 
 **[⬇ Download the latest build](../../releases/latest)** · [mindweaver.space](https://mindweaver.space)
 
+<img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/42ff954c-3beb-461b-8a9a-385248e11f2f" />
+
 ---
 
 ## Windows
